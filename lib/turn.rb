@@ -48,6 +48,6 @@ def turn(board)
       break
     end
   end
-    
+
   end
 end
