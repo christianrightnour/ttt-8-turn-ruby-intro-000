@@ -3,3 +3,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 turn(board)
+turn(board)
