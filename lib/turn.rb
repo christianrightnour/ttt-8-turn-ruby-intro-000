@@ -44,7 +44,6 @@ def turn(board)
     end
   loop do
     puts "Please enter 1-9?"
-    counter = counter + 1
     if counter >= 9
       break
     end
